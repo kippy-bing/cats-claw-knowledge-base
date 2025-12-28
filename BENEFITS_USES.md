@@ -14,6 +14,9 @@ The herb contains compounds that reduce inflammation, which may help with condit
 ### Anti-microbial and Anti-fungal Activity
 Cat's Claw exhibits activity against various bacteria, viruses, and fungi. This makes it a potential adjunct in treating infections, though it should not replace conventional antimicrobial therapy without professional guidance.
 
+### Potential Anti-viral Effects
+Emerging research suggests that Cat's Claw may have direct antiviral properties, particularly against certain RNA viruses. Its alkaloids may interfere with viral replication, offering potential support during viral infections. However, more clinical studies are needed to confirm these effects.
+
 ### Digestive Health
 Traditionally, Cat's Claw has been used to soothe digestive issues, including gastritis, ulcers, and irritable bowel syndrome (IBS). Its anti-inflammatory properties may help calm the gastrointestinal tract.
 
